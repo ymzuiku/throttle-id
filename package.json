@@ -1,8 +1,8 @@
 {
   "name": "throttle-id",
-  "version": "1.0.1",
-  "main": "es/index.js",
-  "types": "es/index.d.ts",
+  "version": "1.0.2",
+  "main": "index.js",
+  "types": "index.d.ts",
   "license": "MIT",
   "scripts": {
     "lib": "tscu lib --outDir es --copy 'package.json, README.md'"
