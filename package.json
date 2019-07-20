@@ -8,6 +8,6 @@
     "lib": "tscu lib --outDir es --copy 'package.json, README.md'"
   },
   "devDependencies": {
-    "tscu": "^1.2.8"
+    "tscu": "^1.2.9"
   }
 }
