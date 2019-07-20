@@ -1,5 +1,6 @@
 const _throttleCache: any = {};
 export const throttle = (id: string, ms: number, fn: any) => {
+  if (ms <= 0) fn();
   const t = _throttleCache;
   if (!t[id]) {
     t[id] = {
