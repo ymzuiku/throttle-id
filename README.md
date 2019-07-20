@@ -1,5 +1,7 @@
 # throttle-id
 
+> Size only 296b, no dependencies
+
 Use `id` split cache sapce's throttle
 
 ```ts
